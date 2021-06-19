@@ -30,10 +30,7 @@
 
 First, let's have a look at the total cases vs total deaths in Australia 
 
-
 ![](project-images/1.png)
-
-**PUT PICTURE 2**
 
 **Insight ONE**. The first death case in Austrlaia is on the 1st March 2020. Total cases were increasing but death percent remains stable around 3% since 10 Sep 2020.
 
