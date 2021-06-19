@@ -1,4 +1,4 @@
-# Project 1 - Covid Case Analysis
+# Practice Project 1 - Covid Case Analysis
 
 <br/>
 
