@@ -4,7 +4,7 @@
 
 **Project Summary:** Analyze global Covid case data to discover insights and visulze the finding.  
 
-**Task Involved:** Data Exploration, Data Visualization
+**Tasks Involved:** Data Exploration, Data Visualization
 
 **Tools Used:** SQL, Tableau
 
@@ -20,6 +20,8 @@
 
 - The dataset has been separated into two two datasets with relevant columns, **CovidDeath** and **CovidVaccination**
 
+[Link to the data source](https://ourworldindata.org/covid-deaths)
+
 <br/>
 
 ## Data Exploration
@@ -28,7 +30,7 @@
 
 <br/>
 
-First, let's have a look at the total cases vs total deaths in Australia 
+First, let's have a look at the **Total cases vs Total deaths in Australia.**
 
 ![](project-images/1.png)
 
@@ -36,7 +38,7 @@ First, let's have a look at the total cases vs total deaths in Australia
 
 <br/>
 
-Then, let's have a look at the total Cases vs population infected in Australia
+Then, let's have a look at the **Total Cases vs population infected in Australia.**
 
 ![](project-images/3.png)
 
@@ -44,7 +46,7 @@ Then, let's have a look at the total Cases vs population infected in Australia
 
 <br/>
 
-After that, let's now have a look which counties has the highest Infction Rate compared to Population.
+After that, let's now have a look which counties has the **Highest Infction Rate compared to Population.**
 
 ![](project-images/4.png)
 
@@ -52,7 +54,7 @@ After that, let's now have a look which counties has the highest Infction Rate c
 
 <br/>
 
-Then, let's have a look at the counties with Highest Death count.
+Then, let's have a look at the counties with **Highest Death count.**
 
 ![](project-images/5.png)
 
@@ -60,7 +62,7 @@ Then, let's have a look at the counties with Highest Death count.
 
 <br/>
 
-Finally, let's now look at the total Population vs Vaccinations in Australia
+Finally, let's now look at the **Total Population vs Vaccinations in Australia.**
 
 ![](project-images/6.png)
 
@@ -70,11 +72,11 @@ Finally, let's now look at the total Population vs Vaccinations in Australia
 
 ## Data Visualization
 
-I have changed little bit of the code as to visulize the data as in Global.
+I have inported the dataset into Tableau. I have changed little bit of the code as to visulize the data under a Global point of view.
 
-Link to my Tableau Dashboard
+[My Tableau Dashboard Link](https://public.tableau.com/app/profile/toby.lee6865/viz/Covidcaseanalysis/Dashboard1)
 
-**PUT PICTURE 7**
+![](project-images/7.png)
 
 - The cross tab shows the global covid cases and death count.
 
